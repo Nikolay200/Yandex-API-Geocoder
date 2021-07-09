@@ -1,0 +1,6 @@
+C:\Users\smirnik\Desktop\C#\YandexAPI-master\YandexAPI\bin\Debug\YandexAPI.dll
+C:\Users\smirnik\Desktop\C#\YandexAPI-master\YandexAPI\bin\Debug\YandexAPI.pdb
+C:\Users\smirnik\Desktop\C#\YandexAPI-master\YandexAPI\obj\Debug\YandexAPI.csproj.AssemblyReference.cache
+C:\Users\smirnik\Desktop\C#\YandexAPI-master\YandexAPI\obj\Debug\YandexAPI.csproj.CoreCompileInputs.cache
+C:\Users\smirnik\Desktop\C#\YandexAPI-master\YandexAPI\obj\Debug\YandexAPI.dll
+C:\Users\smirnik\Desktop\C#\YandexAPI-master\YandexAPI\obj\Debug\YandexAPI.pdb
